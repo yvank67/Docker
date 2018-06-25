@@ -1,1 +1,3 @@
-Dockfile 2
+#----------Dockfile 2-------------------------------------------
+
+FROM microsoft/windowsservercore
